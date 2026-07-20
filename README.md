@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Nexora%20Technologies&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+Nexora+Technologies+%F0%9F%91%8B;We+Build+Smart+Pixel+%26+LED+Solutions;PixelStudio+%7C+WS2812+%7C+NeoPixel+%7C+LED+Matrix;Innovating+Light%2C+One+Pixel+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+Nexora+Technologies+%F0%9F%91%8B;We+Build+Smart+Pixel+%26+LED+Solutions;PixelStudio+%7C+WS2812+%7C+NeoPixel+%7C+LED+Matrix;Innovating+Light%2C+One+Pixel+at+a+Time" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/aemal/aemal/master/robot.gif" width="200"/>
 
