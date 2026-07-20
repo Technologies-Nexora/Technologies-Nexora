@@ -68,8 +68,6 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 
 </div>
 
-> ℹ️ To activate the animated snake graph above, add the **snake.yml** GitHub Action to this repo (I can generate it for you).
-
 ---
 
 ### 🤝 Connect with Us
@@ -94,6 +92,6 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer"/>
 
 </div>
