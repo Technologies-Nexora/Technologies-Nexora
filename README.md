@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/aemal/aemal/master/robot.gif" width="200"/>
 
 <p align="center">
-    <img src="https://github.com/Tecnologies-Nexora/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="300"/>
+    <img src="Image/Nexora.jpg" alt="Nexora Profile picture" width="200"/>
 </p>
 
 <p>
