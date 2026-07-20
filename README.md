@@ -9,7 +9,10 @@
 <p>
   <img src="https://img.shields.io/github/followers/Technologies-Nexora?label=Followers&style=for-the-badge&color=00D9FF" />
   <img src="https://img.shields.io/github/stars/Technologies-Nexora?label=Stars&style=for-the-badge&color=00D9FF" />
+  <img src="https://komarev.com/ghpvc/?username=Technologies-Nexora&label=Profile+Views&style=for-the-badge&color=00D9FF" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
@@ -45,9 +48,25 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Technologies-Nexora&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technologies-Nexora&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Technologies-Nexora&layout=compact&theme=tokyonight&hide_border=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Technologies-Nexora&theme=tokyonight&no-frame=true&row=1&column=6)
+
 </div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Technologies-Nexora/Technologies-Nexora/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+> ℹ️ To activate the animated snake graph above, add the **snake.yml** GitHub Action to this repo (I can generate it for you).
 
 ---
 
