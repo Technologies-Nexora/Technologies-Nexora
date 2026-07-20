@@ -6,6 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/aemal/aemal/master/robot.gif" width="200"/>
 
+<p align="center">
+    <img src="https://github.com/Tecnologies-Nexora/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="300"/>
+</p>
+
 <p>
   <img src="https://img.shields.io/github/followers/Technologies-Nexora?label=Followers&style=for-the-badge&color=00D9FF" />
   <img src="https://img.shields.io/github/stars/Technologies-Nexora?label=Stars&style=for-the-badge&color=00D9FF" />
