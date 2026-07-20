@@ -95,6 +95,6 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=circuitverse&logoColor=white)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer&text=Nexora%20Technologies&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=100&section=footer&text=S%20A%20S%20S%20Madhuwantha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
