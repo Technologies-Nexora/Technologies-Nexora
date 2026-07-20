@@ -94,6 +94,7 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=circuitverse&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer&text=Nexora%20Technologies&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
