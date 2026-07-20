@@ -50,12 +50,6 @@ Hello! We are **Nexora Technologies**, a team passionate about **Pixel Animation
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Technologies-Nexora&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Technologies-Nexora&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Technologies-Nexora&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Technologies-Nexora&theme=tokyonight&no-frame=true&row=1&column=6)
-
 </div>
 
 ---
